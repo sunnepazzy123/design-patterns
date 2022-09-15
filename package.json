@@ -1,0 +1,12 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "start": "nodemon index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
